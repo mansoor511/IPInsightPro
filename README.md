@@ -25,8 +25,36 @@ IP Insight Pro یک ابزار حرفه‌ای و قدرتمند برای دری
 
 ## 🛠️ نصب
 
+
+---
+
+## 🚀 روش خیلی حرفه‌ای: با توضیحات و شماره
+
+```markdown
+## 🛠️ مراحل نصب گام به گام
+
+| مرحله | دستور | توضیح |
+|-------|-------|-------|
+| 1 | `git clone https://github.com/mansoor511/IPInsightPro.git` | کلون کردن مخزن |
+| 2 | `cd IPInsightPro` | ورود به پوشه پروژه |
+| 3 | `chmod +x install.sh` | اجرایی کردن فایل نصب |
+| 4 | `./install.sh` | نصب پیش‌نیازها |
+| 5 | `python3 ipinsight.py` | اجرای ابزار |
+
+### دستورات قابل کپی:
+
 ```bash
+# مرحله 1: کلون کردن
 git clone https://github.com/mansoor511/IPInsightPro.git
+
+# مرحله 2: ورود به پوشه
 cd IPInsightPro
+
+# مرحله 3: اجرایی کردن
 chmod +x install.sh
+
+# مرحله 4: نصب
 ./install.sh
+
+# مرحله 5: اجرا
+python3 ipinsight.py
