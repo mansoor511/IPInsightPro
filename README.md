@@ -1,3 +1,4 @@
+<img width="960" height="540" alt="banner" src="https://github.com/user-attachments/assets/45d800db-d20b-4fcd-9427-f7b28654973f" />
 # IPInsightPro
 Advanced IP Information Tool for Ethical Hackers
 
