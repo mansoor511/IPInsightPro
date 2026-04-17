@@ -25,7 +25,7 @@ IP Insight Pro یک ابزار حرفه‌ای و قدرتمند برای دری
 ## 🛠️ نصب
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IPInsightPro.git
+git clone https://github.com/mansoor511/IPInsightPro.git
 cd IPInsightPro
 chmod +x install.sh
 ./install.sh
